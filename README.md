@@ -8,7 +8,7 @@
 
 The ultimate tool for extracting comprehensive data from Microsoft and Xbox accounts. Gets everything - orders, subscriptions, games, and more.
 
-## ✨ What You Get
+## ✨ What You Get:
 
 - 🎮 **Xbox Live Data** - Gamertag, gamerscore, achievements
 - 📦 **Order History** - Complete purchase records with dates
